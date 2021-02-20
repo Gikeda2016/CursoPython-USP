@@ -1,2 +1,3 @@
 # CursoPython-USP
- Material do Curso de HTML5 e CSS# do Curso em Video
+ 
+ Curso de Python básico 1 e 2.
