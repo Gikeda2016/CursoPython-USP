@@ -9,4 +9,4 @@ para iniciantes que estã cursando Python pela Coursera-USP, assim para o
 boa aprendizagem é imprescindível escrever seu próprio programa com
 sua pegada. OK.
 
-22/01/2021
+22/02/2021
