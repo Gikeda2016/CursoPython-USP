@@ -2,6 +2,8 @@
  
  Curso de Python básico 1 e 2.
  
+ Organizando programas ...
+ 
  Em curso: estou organizando o material antes de carregar o repositório.
 
 É importante lembrar que este servirá de apoio para criar os programa em Python
