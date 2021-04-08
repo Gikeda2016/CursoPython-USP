@@ -11,4 +11,8 @@ para iniciantes que estã cursando Python pela Coursera-USP, assim para o
 boa aprendizagem é imprescindível escrever seu próprio programa com
 sua pegada. OK.
 
-22/02/2021
+Agradeço ao prof. Fábio Kon e equipe pelo bellísimo curso de Phython 
+no qual tive oportunidade para dar os passos iniciais nesta linguagem estimulante, Phyton.
+
+
+08/04/21 - 22/02/2021
